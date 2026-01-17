@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @none0663
+- 👋 Hi, I’m @none0663 @wangzelong0663
 - 🧠 Reinforcement Learning Specialist with 6 years of hands-on experience
 - ⚡ Interests: RL algorithms design & RLHF (Reinforcement Learning from Human Feedback)
 - 🤝 Seeking collaboration: Open-source RL toolkits, human-AI alignment projects, and novel RLHF applications
