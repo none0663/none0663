@@ -2,7 +2,7 @@
 - 🧠 Reinforcement Learning Specialist with 6 years of hands-on experience
 - ⚡ Interests: RL algorithms design & RLHF (Reinforcement Learning from Human Feedback)
 - 🤝 Seeking collaboration: Open-source RL toolkits, human-AI alignment projects, and novel RLHF applications
-- 📫 Let's connect: none0663@outlook.com
+- 📫 Let's connect: wangzl0663@qq.com
 - 💡 Fun fact: Trained an RL agent and RLHF
 - 🌱 Always learning: Latest papers on reinforcement learning and ethical AI alignment
 <!---
